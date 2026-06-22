@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+*.pyc
+__pycache__/
+# 编辑器/工具产物
+.codegraph/
+# 数据备份（可由 compile.py / add_commentary*.py 重新生成）
+*.bak
